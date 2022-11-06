@@ -1,5 +1,3 @@
 # PGlife
-This is a website with some exciting functionality 
+This is a website on which you can see the pg's availabl near to you but it contains a database so it cannot be hosted on github 
 
-Due to the existence of the database, it cannot be hosted on GitHub
-I will link the video . watch in Linkedln
